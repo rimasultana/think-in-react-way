@@ -11,7 +11,7 @@ increment = 0;
 let container = document.querySelector('.container');
 
 // fast
-while(increment < 10000) {
+while(increment < 100) {
     array.push(++increment);
 }
 
