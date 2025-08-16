@@ -12,5 +12,8 @@
     "saha"
   ],
   "author": "Sumit Saha <sumit.analyzen@gmail.com>",
-  "license": "UNLICENSED"
+  "license": "UNLICENSED",
+  "dependencies": {
+    "react-dom": "^19.1.1"
+  }
 }
